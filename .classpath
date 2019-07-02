@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-core/cucumber-core-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-core/cucumber-expressions-7.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-core/datatable-1.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-core/datatable-dependencies-1.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-core/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-core/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-gherkin/c21e-1.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-gherkin/gherkin-6.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-gherkin/messages-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/cucumber-core-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/cucumber-expressions-7.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/cucumber-java-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/datatable-1.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/datatable-dependencies-1.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-java/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/cucumber-core-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/cucumber-expressions-7.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/cucumber-junit-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/datatable-1.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/datatable-dependencies-1.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/11727711/Cucumber/Jar files/c-junit/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
