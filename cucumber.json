@@ -1,0 +1,84 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-07-04T03:54:17.452Z",
+        "line": 4,
+        "name": "Add two numbers",
+        "description": "",
+        "id": "test-calculator;add-two-numbers",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1070800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter 50 in the calculator",
+            "match": {
+              "location": "CalcStep.I_enter_50_in_the_calculator()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 82900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I press add",
+            "match": {
+              "location": "CalcStep.I_press_add()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 46900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I have entered 50 in the calculator",
+            "match": {
+              "location": "CalcStep.I_have_entered_50_in_the_calculator()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I press equal symbol",
+            "match": {
+              "location": "CalcStep.I_press_equal_symbol()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "The result should be 100 in the screen",
+            "match": {
+              "location": "CalcStep.The_result_should_be_100_in_the_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Calculator",
+    "description": "  This file describes calculator functionality",
+    "id": "test-calculator",
+    "keyword": "Feature",
+    "uri": "classpath:Calc/Calc.feature",
+    "tags": []
+  }
+]
